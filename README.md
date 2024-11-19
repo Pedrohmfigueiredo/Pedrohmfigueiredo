@@ -13,7 +13,7 @@
 
 ### - I'm 17 years old Artificial Intelligence and WebDevelopment Enthusiast from Brasil.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://i.pinimg.com/originals/ba/db/16/badb167bc9286367e18c4bf32ba5f1d4.gif">
 
 ### - Learning :
 - ✨ Web Development
@@ -24,6 +24,7 @@
 - ✨ Gaming Addict
 - ✨ Reading Manga
 - ✨ Learning about Philosphy and Psychology
+- ✨ Playing Piano
 - ✨ Muay Thai and soccer
 
 </br>
