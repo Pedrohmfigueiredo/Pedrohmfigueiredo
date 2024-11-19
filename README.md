@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 17 years old Artificial Intelligence and WebDevelopment Enthusiast from Brasil.
+### - I'm 17 years old Cloud Computing, Artificial Intelligence and WebDevelopment Enthusiast from Brasil.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://i.pinimg.com/originals/ba/db/16/badb167bc9286367e18c4bf32ba5f1d4.gif">
 
