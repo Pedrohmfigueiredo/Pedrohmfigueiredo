@@ -23,7 +23,7 @@
 ### - Hobbies : 
 - ✨ Gaming Addict
 - ✨ Reading Manga
-- ✨ Leraning about Philosphy and Psychology
+- ✨ Learning about Philosphy and Psychology
 - ✨ Muay Thai and soccer
 
 </br>
